@@ -1,5 +1,3 @@
-[![codecov](https://codecov.io/gh/AY2526S2-CS2103-F09-1/tp/graph/badge.svg?token=CE6UKLQ1IM)](https://codecov.io/gh/AY2526S2-CS2103-F09-1/tp)
-
 [![CI Status](https://github.com/se-edu/addressbook-level3/workflows/Java%20CI/badge.svg)](https://github.com/se-edu/addressbook-level3/actions)
 
 ![Ui](docs/images/Ui.png)
