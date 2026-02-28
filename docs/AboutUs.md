@@ -38,15 +38,15 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Developer
 * Responsibilities: Data
 
-### Jean Doe
+### Chia Bing Xuan
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/chiabingxuan.png" width="200px">
 
-[[github](http://github.com/johndoe)]
+[[github](http://github.com/chiabingxuan)]
 [[portfolio](team/johndoe.md)]
 
-* Role: Developer
-* Responsibilities: Dev Ops + Threading
+* Role: Integration and Code Quality
+* Responsibilities: To facilitate the combination of various features, ensuring that they function together as an entire product. To also make sure that the codebase abides by the coding standard enforced.
 
 ### James Doe
 
