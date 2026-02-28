@@ -24,7 +24,7 @@ You can reach us at the email `e0970391@u.nus.edu`
 <img src="images/limyifei1513.png" width="200px">
 
 [[github](http://github.com/limyifei)] 
-[[portfolio](team/johndoe.md)]
+[[portfolio](team/limyifei1513.md)]
 
 * Role: Deliverables and deadlines
 * Responsibilities: Ensure project deliverables are done on time and in the right format.
@@ -34,7 +34,7 @@ You can reach us at the email `e0970391@u.nus.edu`
 <img src="images/chiabingxuan.png" width="200px">
 
 [[github](http://github.com/chiabingxuan)]
-[[portfolio](team/johndoe.md)]
+[[portfolio](team/chiabingxuan.md)]
 
 * Role: Integration and Code Quality
 * Responsibilities: To facilitate the combination of various features, ensuring that they function together as an entire product. To also make sure that the codebase abides by the coding standard enforced.
@@ -44,7 +44,7 @@ You can reach us at the email `e0970391@u.nus.edu`
 <img src="images/microaugust.png" width="200px">
 
 [[github](http://github.com/microaugust)]
-[[portfolio](team/johndoe.md)]
+[[portfolio](team/microaugust.md)]
 
 * Role: Feature Developer
 * Responsibilities: Responsible for designing and implementing new features and coordinate with tester to ensure features are fully functional and error-free.
@@ -54,7 +54,7 @@ You can reach us at the email `e0970391@u.nus.edu`
 <img src="images/basilkuok.png" width="200px">
 
 [[github](https://github.com/basilkuok)]
-[[portfolio](team/johndoe.md)]
+[[portfolio](team/basilkuok.md)]
 
 * Role: Testing
 * Responsibilities: Ensures the testing of the project is done properly and on time
