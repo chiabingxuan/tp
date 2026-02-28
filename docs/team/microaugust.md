@@ -1,6 +1,6 @@
 ---
 layout: page
-title: John Doe's Project Portfolio Page
+title: Supanutt Maleemongkol's Project Portfolio Page
 ---
 
 ### Project: EduConnect
