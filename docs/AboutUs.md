@@ -5,7 +5,7 @@ title: About Us
 
 We are a team based in the [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg).
 
-You can reach us at the email `seer[at]comp.nus.edu.sg`
+You can reach us at the email `e0970391@u.nus.edu`
 
 ## Project team
 
@@ -58,3 +58,13 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 * Role: Feature Developer
 * Responsibilities: Responsible for designing and implementing new features and coordinate with tester to ensure features are fully functional and error-free.
+
+### Basil Kuok
+
+<img src="images/basilkuok.png" width="200px">
+
+[[github](https://github.com/basilkuok)]
+[[portfolio](team/johndoe.md)]
+
+* Role: Testing
+* Responsibilities: Ensures the testing of the project is done properly and on time
