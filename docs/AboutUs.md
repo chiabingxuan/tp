@@ -14,7 +14,7 @@ You can reach us at the email `e0970391@u.nus.edu`
 <img src="images/yjiahao.png" width="200px">
 
 [[github](https://github.com/yjiahao)]
-[[portfolio](team/johndoe.md)]
+[[portfolio](team/yjiahao.md)]
 
 * Role: Scheduling and tracking, Documentation
 * Responsibilities: Responsible for the quality of various project documents, and defining, assigning, and tracking project tasks.
