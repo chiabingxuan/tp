@@ -19,16 +19,6 @@ You can reach us at the email `e0970391@u.nus.edu`
 * Role: Scheduling and tracking, Documentation
 * Responsibilities: Responsible for the quality of various project documents, and defining, assigning, and tracking project tasks.
 
-### Jane Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
-
-* Role: Team Lead
-* Responsibilities: UI
-
 ### Lim Yi Fei
 
 <img src="images/limyifei1513.png" width="200px">
